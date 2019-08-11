@@ -2,4 +2,5 @@
 include 'config/config.php';
 echo 'new project super perfect';
 
-echo PI;
+echo PI . '<br>';
+echo PI + 8;
