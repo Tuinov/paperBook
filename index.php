@@ -1,2 +1,2 @@
 <?php
-echo 'new project';
+echo 'new project perfect';
