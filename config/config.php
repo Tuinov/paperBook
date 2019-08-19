@@ -1,3 +1,11 @@
 <?php
 
-define("PI", 3);
+define('DB_DRIVER', 'mysql');
+define('DB_HOST', 'localhost');
+define('DB_NAME', 'geekbrains');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+
+
+
+
